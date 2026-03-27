@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 🧠 Interested in Systematic Trading, Machine Learning, and Financial Modeling
 * 🌱 Currently building an Automated Multi-Strategy Trading System (Delta 1)  
-* ⚙️ Developing Algolion — a decentralized cloud compute platform
+* ⚙️ Developing Algolion - a decentralized cloud compute platform
 * 💞️ Open to collaborating on quant research, trading systems, and ML-driven finance projects
 * 📫 Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
 
