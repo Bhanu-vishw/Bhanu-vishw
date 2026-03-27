@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I’m @Bhanu-vishw (he/him)
 
-* 🧠 Interested in **Systematic Trading, Machine Learning, and Financial Modeling**
+* 🧠 Interested in Systematic Trading, Machine Learning, and Financial Modeling
 * 🌱 Currently developing an **automated multi-strategy trading system** and a side project **Algolions**
-* 💞️ Open to collaborating on **quant research, trading systems, and ML-driven finance projects**
-* 📫 Reach me at: **[bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)**
+* 💞️ Open to collaborating on quant research, trading systems, and ML-driven finance projects
+* 📫 Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
 
 ---
 
