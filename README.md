@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 👋 Hi, I’m @Bhanu-vishw (he/him)
 
 * 🧠 Interested in Systematic Trading, Machine Learning, and Financial Modeling
-* 🌱 Currently building an Automated Multi-Strategy Trading System (Delta 1)  
+* 🌱 Currently building an Automated Multi-Strategy Trading System for Delta 1
 * ⚙️ Developing Algolions - a decentralized cloud compute platform
 * 💞️ Open to collaborating on quant research, trading systems, and ML-driven finance projects
 * 📫 Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
