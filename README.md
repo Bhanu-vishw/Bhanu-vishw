@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 * 📊 I’m a **Quantitative Researcher & Trader**
 -->
-## 👋 Hi, I’m @Bhanu-vishw
+## 👋 Hi, I’m @Bhanu-vishw (he/him)
 
 * 🧠 Interested in **Systematic Trading, Machine Learning, and Financial Modeling**
 * 🌱 Currently developing an **automated multi-strategy trading system** and a side project **Algolions**
 * 💞️ Open to collaborating on **quant research, trading systems, and ML-driven finance projects**
 * 📫 Reach me at: **[bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)**
-* 😄 Pronouns: **he/him**
 
 ---
 
@@ -37,7 +36,3 @@ Here are some ideas to get you started:
 * 📊 Pandas, NumPy, scikit-learn, XGBoost, SciPy, PyTorch, TensorFlow
 * 📉 Time Series, Machine Learning, Optimization
 * ⚙️ Backtesting, Trading Systems, Data Pipelines
-
----
-
-✨ *“Markets reward discipline, not opinions.”*
