@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 * 🎓 M.S. in Financial Mathematics @ University of Minnesota | B.Tech @ IIT Roorkee
 * 💼 Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
-* 🔍 Strong focus on **data-driven decision making and risk modeling**
 
 ---
 
