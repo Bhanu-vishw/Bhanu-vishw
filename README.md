@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 * 📊 I’m a **Quantitative Researcher & Trader**
 -->
-##    Hi, I’m @Bhanu-vishw (he/him)
+##  Hi, I’m @Bhanu-vishw (he/him)
 
-* 🧠 Interested in Systematic Trading, Machine Learning, and Financial Modeling
-* 🌱 Building an automated multi-strategy trading system for Delta One strategies  
-* ⚙️ Developing Algolion — decentralized compute for quantitative workloads
-* 💞️ Open to collaborating on quant research, trading systems, and ML-driven finance projects
-* 📫 Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
+*  Interested in Systematic Trading, Machine Learning, and Financial Modeling
+*  Building an automated multi-strategy trading system for Delta One strategies  
+*  Developing Algolion — decentralized compute for quantitative workloads
+*  Open to collaborating on quant research, trading systems, and ML-driven finance projects
+*  Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-* 🎓 M.S. in Financial Mathematics @ University of Minnesota | B.Tech @ IIT Roorkee
-* 💼 Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
+*  M.S. in Financial Mathematics @ University of Minnesota | B.Tech @ IIT Roorkee
+*  Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
 
