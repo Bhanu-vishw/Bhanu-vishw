@@ -27,11 +27,3 @@ Here are some ideas to get you started:
 * 🎓 M.S. in Financial Mathematics @ University of Minnesota | B.Tech @ IIT Roorkee
 * 💼 Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
 
----
-
-### 🛠️ Skills
-
-* 💻 Python, SQL
-* 📊 Pandas, NumPy, scikit-learn, XGBoost, SciPy, PyTorch, TensorFlow
-* 📉 Time Series, Machine Learning, Optimization
-* ⚙️ Backtesting, Trading Systems, Data Pipelines
