@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 * 📊 I’m a **Quantitative Researcher & Trader**
 -->
-## 👋 Hi, I’m @Bhanu-vishw (he/him)
+##  Hi, I’m @Bhanu-vishw (he/him)
 
 * 🧠 Interested in Systematic Trading, Machine Learning, and Financial Modeling
 * 🌱 Building an automated multi-strategy trading system for Delta One strategies  
