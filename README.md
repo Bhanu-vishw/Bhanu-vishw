@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 *  M.S. in Financial Mathematics @ University of Minnesota || B.Tech @ IIT Roorkee
 *  Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
-*  Interested in Systematic Trading, Machine Learning, and Financial Modeling
-*  Building an automated multi-strategy trading system for Delta One strategies  
+*  Interested in Systematic Trading, Machine Learning, and Financial Modeling 
 *  Open to collaborating on quant research, trading systems, and ML-driven finance projects
 *  Reach me at: [bhanu.vishwakarma1998@gmail.com](mailto:bhanu.vishwakarma1998@gmail.com)
 
