@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ##  Hi, I’m @Bhanu-vishw
 
-*  M.S. in Financial Mathematics @ University of Minnesota || B.Tech @ IIT Roorkee
+*  Master of Financial Mathematics @ University of Minnesota || B.Tech @ IIT Roorkee
 *  Ex-Goldman Sachs (Liquidity Risk) & Wells Fargo (Quant Analytics)
 *  Interested in Systematic Trading, Machine Learning, and Financial Modeling 
 *  Open to collaborating on quant research, trading systems, and ML-driven finance projects
